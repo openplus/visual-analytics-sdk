@@ -1,3 +1,5 @@
+Original fork from https://github.com/sassoftware/visual-analytics-sdk
+
 # SAS Visual Analytics SDK
 
 ## Overview
